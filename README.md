@@ -23,7 +23,6 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=AkoSuminoe&style=flat-square&color=6d28d9&label=Profile+Views"/>
 <img src="https://img.shields.io/github/followers/AkoSuminoe?style=flat-square&color=6d28d9&labelColor=1e1b4b&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/github/stars/AkoSuminoe?style=flat-square&color=6d28d9&labelColor=1e1b4b&logo=github&logoColor=white"/>
 
